@@ -1,6 +1,6 @@
 # A-frika-lang
 
-Z runických zápisů na jakémsi džunglovém papyru se povedlo vyčíst prazvláštní programovací jazyk. Experti si lámou hlavu s tím, jak byli divoši, kteří nikdy neviděli jediný počítač, schopni něco takového vytvořit. Jeho fungování bylo však již rozluštěno a překladač implementovaný v pythonu je k dispozici zde.
+Z runických zápisů na jakémsi džunglovém papyru se povedlo vyčíst prazvláštní programovací jazyk. Experti si lámou hlavu s tím, jak byli divoši, kteří nikdy neviděli jediný počítač, schopni něco takového vytvořit. Jeho fungování bylo však již rozluštěno a interpret implementovaný v pythonu je k dispozici zde.
 
 
 ### Usage
